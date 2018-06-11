@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BitsoundPlayer"
-  s.version      = "0.3.0"
+  s.version      = "0.3.1"
   s.summary      = "소리 신호(Sound Beacon) 송신을 위한 iOS SDK framework"
   s.description  = <<-DESC
 				    비트사운드가 무엇인가요?
